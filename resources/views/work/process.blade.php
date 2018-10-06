@@ -1,6 +1,6 @@
 <div  id="process" class="process-container">
   <div class="process-background">
-    <img src="./media/photos/ProcessBackground.png">
+    <img src="media/photos/ProcessBackground.png">
   </div>
   <div class="process-hud" >
     <h1>My Process</h1>
@@ -53,7 +53,7 @@
         </li>
       </ul>
       <div class="process-graphic">
-        <img src="./media/photos/MyProcess.png">
+        <img src="media/photos/MyProcess.png">
       </div>
     </div>
   </div>

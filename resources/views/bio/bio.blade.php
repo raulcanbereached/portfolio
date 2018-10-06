@@ -1,10 +1,10 @@
 <div id="bio" class="bio-container">
   <div class="bio-hud">
     <div class="signature">
-      <img src="./media/photos/Signature.png">
+      <img src="media/photos/Signature.png">
     </div>
     <div class="headshot">
-      <img src="./media/photos/Headshot-1.jpg">
+      <img src="media/photos/Headshot-1.jpg">
     </div>
   </div>
   <div class="bio-body-1">

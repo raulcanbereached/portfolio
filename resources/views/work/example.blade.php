@@ -1,6 +1,6 @@
 <div  id="example" class="sample-container">
   <div class="example-background">
-    <img src="./media/photos/ExampleBackground.png">
+    <img src="media/photos/ExampleBackground.png">
   </div>
   <div class="sample-hud">
     <h1>Sample Work:</h1>
@@ -61,14 +61,14 @@
           to create formatted spreadsheets of logged contributions as requested by management.
           The tool was also given the ability to store contributions on an external
           file so as to make the process of creating and archiving a backup of contributions simple.</p>
-        <img src="./media/photos/TrackerSkeleton.png">
+        <img src="media/photos/TrackerSkeleton.png">
 
         <h3>Visual Design</h3>
         <p>The second iteration focused on the GUI. In a poll taken, agents seemed to prefered a
           dark theme. Agents didn't want to hassle with menus, or waste time "searching for the
           right buttons." I focused on creating a practical, bold design - easily understood
           upon first use - as agents have no time to waste during their shifts.</p>
-        <img src="./media/photos/TrackerFull.png">
+        <img src="media/photos/TrackerFull.png">
 
         <h3>Fine Tuning</h3>
         <p>The final step was making sure that the tool was readily available without
@@ -77,8 +77,8 @@
           Agents would have the ability push the tool off to a corner of the screen,
           but still have immediate access to review, edit, and clear any logged contributions
           made from the widget view by expanding the tool.</p>
-        <img id="widget" src="./media/photos/TrackerWidget.png">
-        <img id="actual-size" src="./media/photos/ActualSize.png">
+        <img id="widget" src="media/photos/TrackerWidget.png">
+        <img id="actual-size" src="media/photos/ActualSize.png">
       </li>
       <li>
        <h1>Follow Up</h1>

@@ -3,7 +3,7 @@
     @include('partials/navbar')
   </div>
   <div class="home-background">
-    <img src="./media/photos/HomeBackground.jpg">
+    <img src="media/photos/HomeBackground.jpg">
   </div>
   <div class="home-hud text-center">
     <div class="hud-text">

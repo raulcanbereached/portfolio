@@ -19,19 +19,19 @@
   <div id="img-carousel" class="carousel slide" data-ride="carousel" data-interval="6000">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="d-block w-100" src="./media/photos/carousel-1.jpg" alt="First slide">
+        <img class="d-block w-100" src="media/photos/carousel-1.jpg" alt="First slide">
         <div class="grey-backdrop carousel-caption">
           <p>Skyline from Pfluger Pedestrian Bridge</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="./media/photos/carousel-2.jpg" alt="Second slide">
+        <img class="d-block w-100" src="media/photos/carousel-2.jpg" alt="Second slide">
         <div class="grey-backdrop carousel-caption">
           <p>City of Austin Power Plant</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="./media/photos/carousel-3.jpg" alt="Third slide">
+        <img class="d-block w-100" src="media/photos/carousel-3.jpg" alt="Third slide">
         <div class="grey-backdrop carousel-caption">
           <p>Bridge across W. Cesar Chavez St. - Downtown</p>
         </div>
@@ -42,58 +42,58 @@
   <div class="flex-wrapper">
     <div class="flex-container">
       <div class="photo-colorization">
-        <div class="photo-bucket" onclick="on('./media/photos/ATXLadyBirdLake-2c.jpg')">
-          <img class="photo-bw" src="./media/photos/ATXLadyBirdLake-2.jpg">
-          <img class="photo-color" src="./media/photos/ATXLadyBirdLake-2c.jpg">
+        <div class="photo-bucket" onclick="on('media/photos/ATXLadyBirdLake-2c.jpg')">
+          <img class="photo-bw" src="media/photos/ATXLadyBirdLake-2.jpg">
+          <img class="photo-color" src="media/photos/ATXLadyBirdLake-2c.jpg">
         </div>
-        <div class="photo-bucket" onclick="on('./media/photos/ATXLadyBirdLake-5c.jpg')">
-          <img class="photo-bw" src="./media/photos/ATXLadyBirdLake-5.jpg">
-          <img class="photo-color" src="./media/photos/ATXLadyBirdLake-5c.jpg">
-        </div>
-      </div>
-    </div>
-    <div class="flex-container">
-      <div class="photo-colorization">
-        <div class="photo-bucket" onclick="on('./media/photos/ATXLadyBirdLake-7c.jpg')">
-          <img class="photo-bw" src="./media/photos/ATXLadyBirdLake-7.jpg">
-          <img class="photo-color" src="./media/photos/ATXLadyBirdLake-7c.jpg">
-        </div>
-        <div class="photo-bucket" onclick="on('./media/photos/ATXLadyBirdLake-9c.jpg')">
-          <img class="photo-bw" src="./media/photos/ATXLadyBirdLake-9.jpg">
-          <img class="photo-color" src="./media/photos/ATXLadyBirdLake-9c.jpg">
+        <div class="photo-bucket" onclick="on('media/photos/ATXLadyBirdLake-5c.jpg')">
+          <img class="photo-bw" src="media/photos/ATXLadyBirdLake-5.jpg">
+          <img class="photo-color" src="media/photos/ATXLadyBirdLake-5c.jpg">
         </div>
       </div>
     </div>
     <div class="flex-container">
       <div class="photo-colorization">
-        <div class="photo-bucket" onclick="on('./media/photos/ATXLadyBirdLake-8c.jpg')">
-          <img class="photo-bw" src="./media/photos/ATXLadyBirdLake-8.jpg">
-          <img class="photo-color" src="./media/photos/ATXLadyBirdLake-8c.jpg">
+        <div class="photo-bucket" onclick="on('media/photos/ATXLadyBirdLake-7c.jpg')">
+          <img class="photo-bw" src="media/photos/ATXLadyBirdLake-7.jpg">
+          <img class="photo-color" src="media/photos/ATXLadyBirdLake-7c.jpg">
         </div>
-        <div class="photo-bucket" onclick="on('./media/photos/ATXLadyBirdLake-11c.jpg')">
-          <img class="photo-bw" src="./media/photos/ATXLadyBirdLake-11.jpg">
-          <img class="photo-color" src="./media/photos/ATXLadyBirdLake-11c.jpg">
+        <div class="photo-bucket" onclick="on('media/photos/ATXLadyBirdLake-9c.jpg')">
+          <img class="photo-bw" src="media/photos/ATXLadyBirdLake-9.jpg">
+          <img class="photo-color" src="media/photos/ATXLadyBirdLake-9c.jpg">
         </div>
-        <div class="photo-bucket" onclick="on('./media/photos/ATXLadyBirdLake-12c.jpg')">
-          <img class="photo-bw" src="./media/photos/ATXLadyBirdLake-12.jpg">
-          <img class="photo-color" src="./media/photos/ATXLadyBirdLake-12c.jpg">
+      </div>
+    </div>
+    <div class="flex-container">
+      <div class="photo-colorization">
+        <div class="photo-bucket" onclick="on('media/photos/ATXLadyBirdLake-8c.jpg')">
+          <img class="photo-bw" src="media/photos/ATXLadyBirdLake-8.jpg">
+          <img class="photo-color" src="media/photos/ATXLadyBirdLake-8c.jpg">
+        </div>
+        <div class="photo-bucket" onclick="on('media/photos/ATXLadyBirdLake-11c.jpg')">
+          <img class="photo-bw" src="media/photos/ATXLadyBirdLake-11.jpg">
+          <img class="photo-color" src="media/photos/ATXLadyBirdLake-11c.jpg">
+        </div>
+        <div class="photo-bucket" onclick="on('media/photos/ATXLadyBirdLake-12c.jpg')">
+          <img class="photo-bw" src="media/photos/ATXLadyBirdLake-12.jpg">
+          <img class="photo-color" src="media/photos/ATXLadyBirdLake-12c.jpg">
         </div>
       </div>
     </div>
     <div class="flex-container">
       <div class="">
         <div class="photo-colorization">
-          <div class="photo-bucket" onclick="on('./media/photos/ATXLadyBirdLake-13c.jpg')">
-            <img class="photo-bw" src="./media/photos/ATXLadyBirdLake-13.jpg">
-            <img class="photo-color" src="./media/photos/ATXLadyBirdLake-13c.jpg">
+          <div class="photo-bucket" onclick="on('media/photos/ATXLadyBirdLake-13c.jpg')">
+            <img class="photo-bw" src="media/photos/ATXLadyBirdLake-13.jpg">
+            <img class="photo-color" src="media/photos/ATXLadyBirdLake-13c.jpg">
           </div>
-          <div class="photo-bucket" onclick="on('./media/photos/ATXLadyBirdLake-14c.jpg')">
-            <img class="photo-bw" src="./media/photos/ATXLadyBirdLake-14.jpg">
-            <img class="photo-color" src="./media/photos/ATXLadyBirdLake-14c.jpg">
+          <div class="photo-bucket" onclick="on('media/photos/ATXLadyBirdLake-14c.jpg')">
+            <img class="photo-bw" src="media/photos/ATXLadyBirdLake-14.jpg">
+            <img class="photo-color" src="media/photos/ATXLadyBirdLake-14c.jpg">
           </div>
-          <div class="photo-bucket" onclick="on('./media/photos/ATXLadyBirdLake-6c.jpg')">
-            <img class="photo-bw" src="./media/photos/ATXLadyBirdLake-6.jpg">
-            <img class="photo-color" src="./media/photos/ATXLadyBirdLake-6c.jpg">
+          <div class="photo-bucket" onclick="on('media/photos/ATXLadyBirdLake-6c.jpg')">
+            <img class="photo-bw" src="media/photos/ATXLadyBirdLake-6.jpg">
+            <img class="photo-color" src="media/photos/ATXLadyBirdLake-6c.jpg">
           </div>
         </div>
       </div>
