@@ -1,0 +1,79 @@
+.photography-container{
+  clear: both;
+  padding-top: $topPadding;
+  padding: $sectionPadding;
+}
+
+#img-carousel{
+  border: 5px solid black;
+}
+
+.photography-hud-title{
+    padding-bottom: 1%;
+}
+
+.photography-hud-title h1{
+  font-family: 'Mrs Saint Delafield', cursive;
+  text-align: center;
+  font-size: 9vw;
+}
+
+.photography-hud {
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 1%;
+}
+
+.photography-hud h3{
+  font-size: 2.5vw;
+}
+
+.photography-hud p{
+  font-size: 1vw;
+}
+
+.grey-backdrop p{
+  color: white;
+  background-color: red;
+  font-size: 1.2vw;
+  font-variant: small-caps;
+  margin-bottom: 0;
+
+}
+
+.flex-wrapper{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 1% 1%;
+  margin: 2% 0;
+}
+
+.flex-container {
+  padding: 0 1%;
+}
+
+.flex-container img {
+  width: 100%;
+  height: auto;
+  padding-top: 2%;
+}
+
+.grey-backdrop{
+  background-color: $glow;
+  opacity: .8;
+}
+
+.photo-bucket{
+  position: relative;
+
+}
+
+.photo-bw:hover {
+  opacity: 0;
+}
+
+.photo-color{
+  position: absolute;
+  top:0;
+  left:0;
+  z-index: -1
+}

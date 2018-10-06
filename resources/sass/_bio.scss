@@ -1,0 +1,53 @@
+.bio-container{
+  padding-top: $topPadding;
+  padding: $sectionPadding;
+  animation: bio-fade 2s;
+}
+@keyframes bio-fade {
+  0%{opacity: 0;}
+  100%{opacity: 1;}
+}
+
+.bio-hud{
+  padding-top: $topPadding;
+}
+
+.signature{
+  float: left;
+  width: 50%;
+}
+
+.signature img{
+  padding-top: 5%;
+  width: 100%;
+}
+
+.headshot {
+  float: right;
+  width: 50%;
+}
+.headshot img{
+  display: block;
+  margin: auto;
+  width:65%;
+  height: auto;
+  border: 2px black solid;
+  border-radius: 100%;
+}
+
+.bio-body-1{
+
+}
+
+.bio-narrative{
+  clear: both;
+  padding: 5%;
+}
+
+.bio-narrative h1 {
+  font-size: 2.5vw;
+}
+
+.bio-narrative p {
+  font-size: 1vw;
+}

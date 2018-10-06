@@ -1,0 +1,96 @@
+.sample-container {
+  position: relative;
+  padding-top: $topPadding;
+  padding: $sectionPadding;
+  width: 100%;
+  overflow: hidden;
+}
+
+.example-background{
+  display: block;
+  position:absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+}
+
+.example-background img{
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.sample-hud{
+  text-align: left;
+  padding: 5%;
+  background-color: rgba(255,0,0,.6);
+  border: 8px solid red;
+  border-radius: 40px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.sample-hud h1{
+  font-size: 5vw;
+}
+
+.sample-body-1 {
+  padding-top: 5%;
+}
+
+.sample-body-1 h1 {
+  font-size: 3vw;
+}
+
+.sample-body-1 p {
+  font-size: .8vw;
+  padding-left: 1%;
+}
+
+.sample-list {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+#sample-bottom-line {
+  color: red;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.requirements{
+  padding-left: 2%;
+}
+.requirements p{
+  margin: 0;
+}
+
+.sample-list li {
+  background-color: rgba(255,255,255,.6);
+  border: 6px solid white;
+  border-radius: 30px;
+  padding: 3%;
+  margin: 1% 0;
+}
+
+.sample-list h3{
+  font-size: 1.5vw;
+  padding-left: 1%;
+}
+
+.sample-list img{
+  max-width: 100%;
+}
+
+#widget{
+  display: block;
+  margin: auto;
+}
+
+#actual-size {
+  display: block;
+  margin: auto;
+  width: 30%;
+}

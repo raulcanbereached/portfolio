@@ -1,0 +1,118 @@
+.process-container {
+  position: relative;
+  padding-top: $topPadding;
+  padding: $sectionPadding;
+  width: 100%;
+  overflow: hidden;
+}
+
+.process-background{
+
+}
+
+.process-background img{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+.process-hud{
+  display: block;
+  float: right;
+  text-align: right;
+  font-family: 'Permanent Marker', cursive;
+  color: black;
+  margin-top: -5%;
+  width: 50%;
+}
+
+.process-hud h1{
+//  font-family: 'Gloria Hallelujah', cursive;
+//  font-size: 7vw;
+  font-size: 5.5vw;
+  padding-bottom: 2%;
+}
+
+.process-hud h2 {
+  font-size: 2vw;
+}
+
+.process-body-1 {
+//  margin-top: 6%;
+//  font-family: 'Swanky and Moo Moo', cursive;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.process-narrative{
+  width: 100%;
+}
+
+.process-list{
+  display: block;
+  float:left;
+  width: 50%;
+  list-style-type: none;
+}
+
+.process-list li{
+  margin-bottom: 2%;
+  margin-left: -12%;
+}
+
+.process-list h2 {
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-top-right-radius: 20px;
+  margin: auto;
+  background-color: rgba(0, 35, 91,1);
+  font-variant: small-caps;
+  font-size: 1.2vw;
+  color: white;
+  padding: .5% 0 .5% 1%;
+
+}
+
+.process-list p {
+  padding: 1%;
+  margin: auto;
+  background-color: rgba(245,245,245,0.9);
+  font-size: .8vw;
+
+}
+
+.process-graphic {
+  display: block;
+  float: right;
+  width: 50%;
+  padding-top: 3%;
+}
+
+.process-graphic img {
+  margin-left: -15%;
+  width: 150%;
+}
+
+#li-1{
+  margin-right: 0%;
+}
+#li-2{
+  margin-right: 10%;
+}
+#li-3{
+  margin-right: 35%;
+}
+#li-4{
+  margin-right: 30%;
+}
+#li-5{
+  margin-right: 25%;
+}
+#li-6{
+  margin-right: 10%;
+}
+#li-7{
+
+}
